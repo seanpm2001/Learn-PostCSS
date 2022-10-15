@@ -28,10 +28,6 @@
 *.hta linguist-detectable=true
 *.hta linguist-documentation=false
 *.hta linguist-language=HTML
-# CSS (Cascade Styling Sheets) stylesheet file
-*.css linguist-detectable=true
-*.css linguist-documentation=false
-*.css linguist-language=CSS
 # PostCSS file
 *.css linguist-detectable=true
 *.css linguist-documentation=false
@@ -169,6 +165,6 @@
 
 # File info
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2022, Saturday, October 15th at 1:15 pm PST)
-# Line count (including blank lines and compiler line): 175
+# File version: 6 (2022, Saturday, October 15th at 1:21 pm PST)
+# Line count (including blank lines and compiler line): 171
 # End of script
